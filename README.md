@@ -11,6 +11,7 @@
 
 大会HP： https://robotics-open-exchange.com/
 
+## 大会に参加したロボット
 <img width="4067" height="2711" alt="DSC02484" src="https://github.com/user-attachments/assets/8baef8eb-3832-4b23-b0ee-457e288e8da0" />
 
 ## 回路構成
