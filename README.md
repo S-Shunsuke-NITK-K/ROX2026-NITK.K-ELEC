@@ -1,4 +1,8 @@
 # ROX2026の熊本高専（熊本キャンパス）の回路構成
+
+## 大会概要
+広島のmolten [the Box]で行われたROX2026に参加した。
+https://robotics-open-exchange.com/
 <img width="4067" height="2711" alt="DSC02484" src="https://github.com/user-attachments/assets/8baef8eb-3832-4b23-b0ee-457e288e8da0" />
 
 ## 回路構成
