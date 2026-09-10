@@ -17,6 +17,9 @@
 ## 回路構成
 <img width="2003" height="1494" alt="image" src="https://github.com/user-attachments/assets/ef0e206f-1513-4a07-8b8d-0a0d15552713" />
 
+## 製作した基板
+
+
 
 搭載したアクチュエータの使用目的は次の通りである。
 
