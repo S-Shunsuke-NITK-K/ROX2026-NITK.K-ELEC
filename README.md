@@ -18,35 +18,23 @@
 <img width="2003" height="1494" alt="image" src="https://github.com/user-attachments/assets/ef0e206f-1513-4a07-8b8d-0a0d15552713" />
 
 ## 製作した基板
+RDK_X5_Board：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/RDK_X5_Board  
+  
+IMU_Board：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/IMU_Board  
+  
+PCU：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/PCU  
+  
+DriveCANHUB：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/DriveCANHUB  
+  
+PowerHUB：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/PowerHUB  
+  
+LPMD：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/LPMD  
 
-### RDK_X5_Board（マザーボード）
-詳細：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/RDK_X5_Board  
-  
-### IMU_Board
-IMU（BNO055）を搭載するだけの基板  
-詳細：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/IMU_Board  
-  
-### PCU
-緊急停止スイッチの信号に応じて電源の出力をON/OFFする基板  
-詳細：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/PCU  
-  
-### DriveCANHUB
-電源とCAN信号（XT30(2+2)）のHUB基板  
-詳細：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/DriveCANHUB  
-  
-### PowerHUB
-電源(XT60)のHUB基板   
-詳細：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/PowerHUB  
-  
-### LPMD
-低容量モータ向けのモータドライバ基板  
-詳細：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/LPMD  
-
-### NeoPixelsControlBoard
-LEDテープに対して5V電源と信号を供給する基板  
-詳細：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/NeoPixelsControlBoard  
+NeoPixelsControlBoard：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/NeoPixelsControlBoard  
   
 ## その他
-### 電装
+電装：
+
+安全対策：
 
 ### 安全対策
