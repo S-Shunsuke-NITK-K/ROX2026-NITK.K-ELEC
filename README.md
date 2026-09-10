@@ -20,28 +20,33 @@
 ## 製作した基板
 
 ### RDK_X5_BoardR（マザーボード）
-RDK X5のGPIO端子の配置を変換し、IMUやモータドライバなどの他の回路部品と接続しやすくする基板。  
+RDK X5のGPIO端子の配置を変換し、IMUやモータドライバなどの他の回路部品と接続しやすくする基板  
 詳細：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/RDK_X5_Board  
   
-  
 ### IMU_Board
-詳細：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/IMU_Board
-
+IMU（BNO055）を搭載するだけの基板  
+詳細：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/IMU_Board  
+  
 ### PCU
-詳細：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/PCU
-
+緊急停止スイッチの信号に応じて電源の出力をON/OFFする基板  
+詳細：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/PCU  
+  
 ### DriveCANHUB
-詳細：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/DriveCANHUB
-
+電源とCAN信号（XT30(2+2)）のHUB基板  
+詳細：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/DriveCANHUB  
+  
 ### PowerHUB
-詳細：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/PowerHUB
-
+電源(XT60)のHUB基板   
+詳細：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/PowerHUB  
+  
 ### LPMD
-詳細：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/LPMD
+低容量モータ向けのモータドライバ基板  
+詳細：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/LPMD  
 
 ### NeoPixelsControlBoard
-詳細：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/NeoPixelsControlBoard
-
+LEDテープに対して5V電源と信号を供給する基板  
+詳細：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/NeoPixelsControlBoard  
+  
 
 搭載したアクチュエータの使用目的は次の通りである。
 
