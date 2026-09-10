@@ -35,6 +35,4 @@ NeoPixelsControlBoard：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC
 ## その他
 電装：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/%E9%9B%BB%E8%A3%85
 
-安全対策：
-
-### 安全対策
+安全対策：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/%E5%AE%89%E5%85%A8%E5%AF%BE%E7%AD%96
