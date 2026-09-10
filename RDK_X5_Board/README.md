@@ -1,5 +1,19 @@
 # RDK_X5_Board
 ## 仕様
+RDK X5に接続することで使いやすいインターフェースに変換する。
+
+準備したインターフェース  
+・I2C  x2
+・SPI  x1
+・モータドライバ制御信号出力ポート（Digital信号 x2 + PWM信号 x1）  x1　※「LPMD」と記載されたポート
+・緊急停止スイッチ読み取りポート  x1　※「Limit0」と記載されたポート
+・
+
+| 項目 | 内容 |
+|------|------|
+| CAD | KiCADデータを公開 |
+| 回路 | 回路図を公開 |
+| 動画 | 製作動画を公開 |
 
 ## 3Dモデル
 <img width="640" height="545" alt="RDK_X5_3DF_ver ROX2026 2" src="https://github.com/user-attachments/assets/4e67d752-9d00-4476-98fa-8df0552e3ff7" />
