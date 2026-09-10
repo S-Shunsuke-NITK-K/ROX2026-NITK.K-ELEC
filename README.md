@@ -18,7 +18,7 @@
 <img width="2003" height="1494" alt="image" src="https://github.com/user-attachments/assets/ef0e206f-1513-4a07-8b8d-0a0d15552713" />
 
 ## 回路台（ロボット左側面）
-![IMG_0131](https://github.com/user-attachments/assets/a21e3f1f-e855-4398-9f45-b0c434283a99)
+<img width="1440" height="881" alt="スクリーンショット 2026-09-10 14 59 45" src="https://github.com/user-attachments/assets/d870e969-1be7-4ad9-a8e7-7a3154a025df" />
 
 ## 回路台（ロボット右側面）
 後日公開
