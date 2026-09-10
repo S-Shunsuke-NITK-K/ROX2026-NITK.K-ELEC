@@ -1,6 +1,6 @@
 # LPMD
 
-低容量のモータを駆動するためのモータドライバ（Low Power Motor Driver）
+低容量のモータを駆動するためのモータドライバ（LPMD：Low Power Motor Driver）
 
 ### コンセプト
 ・設計は市販基板のパクリ  
