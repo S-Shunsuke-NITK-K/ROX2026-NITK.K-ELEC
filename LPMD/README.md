@@ -1,3 +1,17 @@
+# LPMD
+
+低容量のモータを駆動するためのモータドライバ（LowPowerMotorDriver）
+
+### コンセプト
+・設計は市販基板のパクリ  
+市販の基板：https://www.pololu.com/file/0J503/VNH5019_carrier_schematic.pdf
+
+・製作費は市販基板よりも安くする  
+　市販基板：7000円  
+　自作基板：2500円  
+
+※信頼性は圧倒的に市販基板の方が高いです。
+
 ## 実物
 <img width="2510" height="1480" alt="LPMD_3D_ver ROX2026 1" src="https://github.com/user-attachments/assets/cbfdeef2-90fa-4ba8-add8-3f2e39a5c73c" />
 
