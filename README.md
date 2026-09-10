@@ -19,11 +19,9 @@
 
 ## 製作した基板
 
-### RDK_X5_BoardR（マザーボード）
+### RDK_X5_Board（マザーボード）
 RDK X5のGPIO端子の配置を変換し、IMUやモータドライバなどの他の回路部品と接続しやすくする基板  
 詳細：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/RDK_X5_Board  
-
-
   
 ### IMU_Board
 IMU（BNO055）を搭載するだけの基板  
@@ -49,4 +47,7 @@ IMU（BNO055）を搭載するだけの基板
 LEDテープに対して5V電源と信号を供給する基板  
 詳細：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/NeoPixelsControlBoard  
   
-## 
+## その他
+### 電装
+
+### 安全対策
