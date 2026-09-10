@@ -9,3 +9,14 @@
 ## チームの背番号（816）
 <img width="589" height="323" alt="IMG_0243" src="https://github.com/user-attachments/assets/4536cc11-e888-4ae3-80e5-30522d84cf13" />
 
+## 使用したLEDテープ
+選定基準：  
+・ネオン風のLED  
+・LEDの粒々感がない  
+・ロゴを描きやすいように曲がる  
+
+オレンジ：https://www.amazon.co.jp/dp/B0B56MWTS8/ref=twister_B0D45N4NLZ?_encoding=UTF8&psc=1
+
+青：https://www.amazon.co.jp/dp/B0B56N4QQ8/ref=twister_B0D45N4NLZ?_encoding=UTF8&th=1
+
+## 製作方法
