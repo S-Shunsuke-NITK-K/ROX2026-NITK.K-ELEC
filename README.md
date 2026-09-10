@@ -33,7 +33,7 @@ LPMD：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/LPMD
 NeoPixelsControlBoard：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/NeoPixelsControlBoard  
   
 ## その他
-電装：
+電装：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/%E9%9B%BB%E8%A3%85
 
 安全対策：
 
