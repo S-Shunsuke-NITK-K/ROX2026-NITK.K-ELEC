@@ -1,3 +1,17 @@
+# PCU
+緊急停止スイッチの状態に応じて電源出力をON/OFFする基板（PCU：Power Control Unit）
+
+### 入力
+12V電源（XT60 オス）&LED制御信号（XH2ピン オス）  
+
+### 出力  
+5V電源+LED制御信号（XH3ピン オス）  
+
+### コンセプト
+・大量のLEDテープを安定動作させるため、DCDCコンバータ（BP5293-50）を用いて12V電源から5V電源を生成する。
+
+・5V電源とLED制御信号を1つのコネクタにまとめたい。
+
 ## 3Dモデル
 <img width="909" height="693" alt="PCU_3D1_ver ROX2026 2" src="https://github.com/user-attachments/assets/6ca0a5bd-6b39-4849-beec-9b07a6da8773" />
 
