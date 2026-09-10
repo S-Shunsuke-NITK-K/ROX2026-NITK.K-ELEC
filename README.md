@@ -17,6 +17,12 @@
 ## 回路構成
 <img width="2003" height="1494" alt="image" src="https://github.com/user-attachments/assets/ef0e206f-1513-4a07-8b8d-0a0d15552713" />
 
+## 回路台（ロボット左側面）
+![IMG_0131](https://github.com/user-attachments/assets/a21e3f1f-e855-4398-9f45-b0c434283a99)
+
+## 回路台（ロボット右側面）
+後日公開
+
 ## 製作した基板
 RDK_X5_Board：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/RDK_X5_Board  
   
