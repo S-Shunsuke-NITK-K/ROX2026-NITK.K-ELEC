@@ -32,5 +32,16 @@
 
 <img width="1016" height="762" alt="image" src="https://github.com/user-attachments/assets/860f1054-916c-4366-a696-e7622a06aef7" />
 
-
 ## 安全対策③：配線の色を区別
+今回は40Vの電源と12Vの電源が混在した回路構成になっている。  
+そのため、差し間違いを防止するために電源用の配線の色を区別した。  
+　・赤 + 黒：40V系  
+　・青 + 白：12V系  
+
+※他の方法として、電圧レベルに応じてコネクタの種類を変えることもある。z
+
+40V系の配線
+<img width="1170" height="972" alt="IMG_0291" src="https://github.com/user-attachments/assets/f503d215-957a-4cff-8884-9011664c7c35" />
+
+12V系の配線
+<img width="1023" height="710" alt="IMG_0292" src="https://github.com/user-attachments/assets/9fdbb843-cdb3-4815-ac26-a4e0775aacb2" />
