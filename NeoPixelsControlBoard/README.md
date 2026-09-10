@@ -8,7 +8,9 @@ LEDテープを駆動するための電源を生成する基板
 5V電源+LED制御信号（XH3ピン オス）  
 
 ### コンセプト
-大量のLEDテープを安定動作させるため、DCDCコンバータ（BP5293-50）を用いて12V電源から5V電源を生成する。
+・大量のLEDテープを安定動作させるため、DCDCコンバータ（BP5293-50）を用いて12V電源から5V電源を生成する。
+
+・5V電源とLED制御信号を1つのコネクタにまとめたい。
 
 ## 3Dモデル
 <img width="869" height="606" alt="NeoPixelsControlBoard_3D_ver ROX2026 1" src="https://github.com/user-attachments/assets/b0c1485c-9d05-4512-8f75-e702a56559db" />
