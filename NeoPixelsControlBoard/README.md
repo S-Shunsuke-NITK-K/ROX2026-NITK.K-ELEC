@@ -1,14 +1,14 @@
 # NeoPixelsControlBoard
-LEDテープを駆動するための電源を生成する
+LEDテープを駆動するための電源を生成する基板
 
 ### 入力
-電源（XT60 オス）&CAN信号（XH2ピン オス）  
+12V電源（XT60 オス）&LED制御信号（XH2ピン オス）  
 
 ### 出力  
-電源+CAN信号（XT30(2+2) オス）  
+5V電源+LED制御信号（XH3ピン オス）  
 
 ### コンセプト
-配布されたワンタッチコネクタを使用しても問題はないが、専用コネクタを使用することで「配線の抜き差しが楽になる」「差し間違いの防止」などのメリットが得られる。  
+大量のLEDテープを安定動作させるため、DCDCコンバータ（BP5293-50）を用いて12V電源から5V電源を生成する。
 
 ## 3Dモデル
 <img width="869" height="606" alt="NeoPixelsControlBoard_3D_ver ROX2026 1" src="https://github.com/user-attachments/assets/b0c1485c-9d05-4512-8f75-e702a56559db" />
