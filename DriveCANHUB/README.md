@@ -1,3 +1,9 @@
+# DriveCANHUB
+## 仕様
+入力：電源（XT60）&CAN信号（XH2ピン）  
+出力：電源+CAN信号（XT30(2+2)）  
+
+
 ## 3Dモデル
 <img width="895" height="531" alt="DriveCANHUB_3D_ver ROX2026 1" src="https://github.com/user-attachments/assets/9e0c5c2a-6a8f-4d90-a18c-dcbaea6ad39b" />
 
