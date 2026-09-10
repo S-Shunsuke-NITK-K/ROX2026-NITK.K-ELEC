@@ -24,7 +24,7 @@
 後日公開
 
 ## 製作した基板
-基板データを確認する際はKiCADを使用してください。  
+KiCADを使用して設計しています。基板データを確認する際はKiCADを使用してください。  
 KiCADダウンロード：https://www.kicad.org/download/
 
 RDK_X5_Board：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/RDK_X5_Board  
