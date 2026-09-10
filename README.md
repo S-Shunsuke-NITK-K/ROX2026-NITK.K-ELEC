@@ -49,8 +49,7 @@ IMU（BNO055）を搭載するだけの基板
 LEDテープに対して5V電源と信号を供給する基板  
 詳細：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/NeoPixelsControlBoard  
   
-
-搭載したアクチュエータの使用目的は次の通りである。
+## 搭載したアクチュエータ
 
 ### 足回り
 Edulight
