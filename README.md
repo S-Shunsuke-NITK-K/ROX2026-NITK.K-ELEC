@@ -49,15 +49,4 @@ IMU（BNO055）を搭載するだけの基板
 LEDテープに対して5V電源と信号を供給する基板  
 詳細：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/NeoPixelsControlBoard  
   
-## 搭載したアクチュエータ
-
-### 足回り
-Edulight
-
-### ドリブル機構&ボール取り込み機構
-
-
-### ボール送り出し機構
-
-
-### ボール投射機構
+## 
