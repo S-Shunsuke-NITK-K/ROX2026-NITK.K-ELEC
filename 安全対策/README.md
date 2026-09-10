@@ -40,8 +40,8 @@
 
 ※他の方法として、電圧レベルに応じてコネクタの種類を変えることもできる。
 
-40V系の配線
+### 40V系の配線
 <img width="1170" height="972" alt="IMG_0291" src="https://github.com/user-attachments/assets/f503d215-957a-4cff-8884-9011664c7c35" />
 
-12V系の配線
+### 12V系の配線
 <img width="1023" height="710" alt="IMG_0292" src="https://github.com/user-attachments/assets/9fdbb843-cdb3-4815-ac26-a4e0775aacb2" />
