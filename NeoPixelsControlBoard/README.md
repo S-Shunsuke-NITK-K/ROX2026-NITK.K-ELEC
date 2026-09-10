@@ -1,3 +1,15 @@
+# NeoPixelsControlBoard
+12V
+
+### 入力
+電源（XT60 オス）&CAN信号（XH2ピン オス）  
+
+### 出力  
+電源+CAN信号（XT30(2+2) オス）  
+
+### コンセプト
+配布されたワンタッチコネクタを使用しても問題はないが、専用コネクタを使用することで「配線の抜き差しが楽になる」「差し間違いの防止」などのメリットが得られる。  
+
 ## 3Dモデル
 <img width="869" height="606" alt="NeoPixelsControlBoard_3D_ver ROX2026 1" src="https://github.com/user-attachments/assets/b0c1485c-9d05-4512-8f75-e702a56559db" />
 
