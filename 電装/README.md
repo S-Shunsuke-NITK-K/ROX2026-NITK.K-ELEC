@@ -20,3 +20,8 @@
 青：https://www.amazon.co.jp/dp/B0B56N4QQ8/ref=twister_B0D45N4NLZ?_encoding=UTF8&th=1
 
 ## 製作方法
+
+製作方法はシンプル！だけど、綺麗に
+<img width="1063" height="412" alt="スクリーンショット 2026-09-10 14 31 24" src="https://github.com/user-attachments/assets/d14ea373-33db-40aa-8b49-0b5784e473d4" />
+
+<img width="1063" height="499" alt="スクリーンショット 2026-09-10 14 32 03" src="https://github.com/user-attachments/assets/2d338ef5-52fc-4004-b92f-e7243dd7acc3" />
