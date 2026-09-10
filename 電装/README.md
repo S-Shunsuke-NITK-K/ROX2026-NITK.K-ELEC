@@ -20,8 +20,15 @@
 青：https://www.amazon.co.jp/dp/B0B56N4QQ8/ref=twister_B0D45N4NLZ?_encoding=UTF8&th=1
 
 ## 製作方法
+製作方法は説明するまでもないくらいシンプル。
 
-製作方法はシンプル！だけど、綺麗に
+3Dプリンタ製の枠に沿わせてネオン風LEDテープを取り付けるだけ。
+
+3Dプリンタ製の枠とアクリル板との接着には両面テープを使用した。大会期間中に外れることがあったため、両面テープ以外の強固な接着方法を考えた方がいいかも。
+
+<img width="905" height="346" alt="スクリーンショット 2026-09-10 14 49 09" src="https://github.com/user-attachments/assets/df9672b9-aca7-466e-beb4-110dce8a88b9" />
+
+
 <img width="1063" height="412" alt="スクリーンショット 2026-09-10 14 31 24" src="https://github.com/user-attachments/assets/d14ea373-33db-40aa-8b49-0b5784e473d4" />
 
 <img width="1063" height="499" alt="スクリーンショット 2026-09-10 14 32 03" src="https://github.com/user-attachments/assets/2d338ef5-52fc-4004-b92f-e7243dd7acc3" />
