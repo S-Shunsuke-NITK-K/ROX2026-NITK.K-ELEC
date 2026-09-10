@@ -1,3 +1,6 @@
+# RDK_X5_Board
+## 仕様
+
 ## 3Dモデル
 <img width="640" height="545" alt="RDK_X5_3DF_ver ROX2026 2" src="https://github.com/user-attachments/assets/4e67d752-9d00-4476-98fa-8df0552e3ff7" />
 
