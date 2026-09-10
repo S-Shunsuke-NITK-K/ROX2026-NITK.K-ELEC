@@ -1,10 +1,12 @@
 # IMU_Board
 
-## 仕様
 ロボットの姿勢をセンシングするためのIMU（BNO055）をロボットに搭載しやすくするための基板。  
 使用したIMU：https://akizukidenshi.com/catalog/g/g116996/
 
+### コンセプト
+・秋月電子で販売されているIMU基板は取付穴がなく扱いにくいため、固定しやすいように改善
 
+・マザーボード（RDK_X5_Board）にIMUを搭載する方法もあるが、可能な限りIMUは好きな位置に設置したい。
 
 ## 3Dモデル
 <img width="661" height="644" alt="IMU_3D_ver ROX2026 1" src="https://github.com/user-attachments/assets/af3bc795-efbd-4e43-b528-c3c3146f730c" />
