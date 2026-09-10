@@ -1,3 +1,16 @@
+# PowerHUB
+
+## 仕様
+
+### 入力
+電源（XT60 ）
+
+### 出力  
+電源+CAN信号（XT30(2+2)）  
+
+### コンセプト
+配布されたワンタッチコネクタを使用しても問題はないが、専用コネクタを使用することで「配線の抜き差しが楽になる」「差し間違いの防止」などのメリットが得られる。 
+
 ## 3Dモデル
 <img width="786" height="486" alt="PowerHUB_3D_ver ROX2026 2" src="https://github.com/user-attachments/assets/9099d7a0-b614-4681-bf8f-06f1eb8f580d" />
 
