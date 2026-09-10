@@ -10,6 +10,7 @@
 
 　┗ IMU（BNO055）は加速度センサ、ジャイロ、地磁気センサを融合して姿勢を計算している。  
 　　 IMUの設置がロボットの中心から離れれば離れるほど遠心加速度や振動の影響を受けやすくなる。（自説）  
+　　 ※IMUをロボットの中心から離れた位置に設置してトラブルが発生したことはない。
 
 ## 3Dモデル
 <img width="661" height="644" alt="IMU_3D_ver ROX2026 1" src="https://github.com/user-attachments/assets/af3bc795-efbd-4e43-b528-c3c3146f730c" />
