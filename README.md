@@ -20,18 +20,26 @@
 ## 製作した基板
 
 ### RDK_X5_Board
+詳細：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/RDK_X5_Board
 
 ### IMU_Board
+詳細：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/IMU_Board
 
 ### PCU
+詳細：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/PCU
 
 ### DriveCANHUB
+詳細：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/DriveCANHUB
 
 ### PowerHUB
+詳細：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/PowerHUB
 
 ### LPMD
+詳細：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/LPMD
 
 ### NeoPixelsControlBoard
+詳細：https://github.com/S-Shunsuke-NITK-K/ROX2026-NITK.K-ELEC/tree/main/NeoPixelsControlBoard
+
 
 搭載したアクチュエータの使用目的は次の通りである。
 
