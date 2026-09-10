@@ -3,6 +3,8 @@
 入力：電源（XT60）&CAN信号（XH2ピン）  
 出力：電源+CAN信号（XT30(2+2)）  
 
+コンセプト
+配布されたワンタッチコネクタを使用しても問題はないが、専用コネクタを使用することで「配線の抜き差しが楽になる」「差し間違いの防止」などのメリットが得られる。  
 
 ## 3Dモデル
 <img width="895" height="531" alt="DriveCANHUB_3D_ver ROX2026 1" src="https://github.com/user-attachments/assets/9e0c5c2a-6a8f-4d90-a18c-dcbaea6ad39b" />
