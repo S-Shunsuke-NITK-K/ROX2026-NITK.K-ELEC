@@ -1,5 +1,5 @@
 # NeoPixelsControlBoard
-12V
+LEDテープを駆動するための電源を生成する
 
 ### 入力
 電源（XT60 オス）&CAN信号（XH2ピン オス）  
